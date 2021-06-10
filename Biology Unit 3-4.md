@@ -1,0 +1,1566 @@
+--------------------- Portal ---------------------
+ -- Avoided infinite recursion --     - Highlight
+        - Color
+            - Red #Color
+- AOS 1
+    -  _**Plasma membranes**_  _  _ 
+        - **3A The Structure of The Plasma Membrane**
+            - **Fluid Mosaic Model**: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity.
+                - Fluid:: The plasma membrane is  _{{flexible}}_  and  _{{easily changes shape}}_  (due to inflections and kinks), and the the components are  _{{laterally mobile}}_  within the structure
+                    - Function:: Enables cell to contract and expand without losing its integrity.
+                - Mosaic:: Patchwork of components, scattered arrangement of proteins, glycoproteins, glycolipids and cholesterol.
+                    - **Plasma Membrane Commponents**
+                        - Cholestrol:: A lipid steroid that embeds itself between the fatty acid tails of the phospholipid bilayer in animal cells. Regulates fluidity, Fluidity level is dependent on temperarature
+                            - Function:: Regulates fluidity of the membrane. At higher temperatures, the cholesterol keeps phospholipids bound together, preventing unwanted substances from slipping through holes. At lower temperatures, the cholesterol disrupts the fatty acid tails, stopping phospholipids from becoming a solid boundary.
+                        - Carbohydrates:: Structure usually in chains outside the cell, rooted in the membrane to lipids (glycolipids) or proteins (glycoproteins).
+                            - Function:: Aid with cell to cell communication, signalling, recognition of self or foreign molecules, and adhesion.
+                            - Glycolipids:: A phospholipid bound to a carbohydrate.
+                            - Glycoproteins:: A protein bound to a carbohydrate
+                        - Membrane Proteins:: Multi-functional structures that are part of the plasma membrane.
+                            - Function
+                                - Transport - Channels or pumps control what enters and exits the cell, making the plasma membrane selectively permeable.
+                                - Enzymes - Catalyze chemical reactions.
+                                - Communication - Receive signals or recognize cells and molecules. Often attached to the cytoskeleton to transmit signals into the cell.
+                                - Adhesion - Stick to other cells, the extracellular matrix, or the cytoskeleton
+                            - Integral:: Proteins that are a  _permanent_  part of the membrane
+                            - Transmembrane:: [Integral](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./Mosaic/Plasma Membrane Commponents/Membrane Proteins/Integral.md)  proteins that span the entire width of the plasma membrane.
+                            - Peripheral::  _Temporary_  proteins that attach to the  _outside_  of the membrane
+                                - Antigen:: Substance that is usually attached to the outside of a cell that identifies it as part of an organism. If the immune system doesn't recognize the substance, it will produce antibodies to combat it.
+                        - Cytoskeleton:: the microscopic  _web/network_  of  _protein filaments_  in the cytoplasm, often attached to PB.
+                            - Function:: Provides structure, support, transports products around the cell
+                - **PB Concepts**
+                    - Polar:: A molecule with both a positive end and negative end, tend to be [Hydrophilic](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./PB Concepts/Hydrophilic.md).
+                    - Non-polar:: A molecule without a clear positive or negative end, tend to be [Hydrophobic](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./PB Concepts/Hydrophobic.md).
+                    - Hydrophilic:: Having a tendency to be **attracted** to and **dissolve **in water.
+                    - Hydrophobic:: Having a tendency to **repel **from and be **insoluble **in water.
+                    - Amphipathic:: When molecules are made up of both [Hydrophilic](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./PB Concepts/Hydrophilic.md) and [Hydrophobic](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./PB Concepts/Hydrophobic.md) parts.
+                    - Why is it important that phospholipids are amphipathic?:: Because it allows the plasma membrane to be stable as the fatty acid tails are repelled from water whereas the phosphate heads are attracted to water, so a stable bilayer naturally forms.
+                    - **Orientation**
+                        - Because they are {{hydrophobic}}, the fatty acid tails orient themselves {{away}} from the intra and extracellular fluid to form the middle portion of the PB.
+                        - Because they are {{hydrophilic}}, the phosphate heads orient themselves {{towards}} the aqueous intra and extracellular fluid to form the outer and inner portion of the PB.
+                - Plasma Membrane:: The selectively permeable structure composed of a [Phospholipid bilayer](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./Plasma Membrane/Phospholipid bilayer.md) that is embedded with cholesterol to regulate fluidity, carbohydrates for cell signalling, and multi-functional proteins.
+                    - Phospholipid bilayer:: The double layer of [Amphipathic](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./PB Concepts/Amphipathic.md) molecules that forms the primary component of cell membranes.
+                        - Phospholipid:: A [Phosphate head](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./Plasma Membrane/Phospholipid bilayer/Phosphate head.md) and 2 [Fatty acid tails](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./Plasma Membrane/Phospholipid bilayer/Fatty acid tails.md) which is the main molecule of which the plasma membrane is composed of. ![](https://remnote-user-data.s3.amazonaws.com/YbLd5TPL6cI3UlCBXwE9xUt8a5qU3q3PCn3ZAsh0I9qMlTh1bWhtdYfXrUj_GJtfMJbG2Zz1BC4h4M6mnqt1FiLYwqJXCT-xDxqgnC5p9qW1rvQcixAnlK89CyTYwIHj)
+                        - Phosphate head:: The hydrophilic subunit of a phospholipid.
+                        - Fatty acid tails:: The hydrophobic subunit of a phospholipid.
+                    - ![](https://remnote-user-data.s3.amazonaws.com/B4x4GDQIHCD4KEU_0SL49YIOQ2m81pKe6AZPuu7seQDW377tXAeLH0K9YB1YLZ-Qduvv9WUqg8AoB7PthLQ6_rd1OzLw-PuPqLIvzFPMT-EZYS5G-RauMtPHECZCc0Nv)
+                - **Summary**
+                    - The plasma membrane is fluid-mosaic, meaning it is made of many components like phosphlipids, proteins, cholestrol and carbohydrates. The fluid part comes from the fact that the cholestrol that is embedded between the fatty acid tails of the PB, regulates fluidity. It is important for the plasma membrane to be fluid because it allows it to fuse with other membranes and maintains a stable osmotic gradient between the internal and external environment.
+        - **3B Transport Across Membranes**
+            - **Transport**
+                - Passive Transport::  _The net movement of molecules_  through a  _semipermeable_  membrane and down their concentration gradient,  _without an input_  of energy.
+                    - Osmosis:: The passive and net transport of free water through a semipermeable membrane from a hypotonic solution to a hypertonic solution.
+                        - Osmosis can occur through:: Aqua pores (channel proteins for water), PB, Other channel proteins.
+                    - **Diffusion Concepts**
+                        - Diffusion:: The passive and net movement of molecules down their concentration gradient until equilibrium is reached due to the random movement of particles.
+                        - Facilitated Diffusion:: The  _passive_  and  _net_  movement of molecules across  _a phospholipid bilayer_  down their concentration gradient with the  _aid of a membrane transport protein._   
+                            - **Transport Proteins**
+                                - Protein Channel:: A protein-based pore in a phospholipid bilayer that selectively enables transport of large or polar molecules through it's narrow passageways. Ions can also diffuse through a particular channel but only of a specific size/shape.
+                                    - 
+                                - **Carrier proteins**:: A polypeptide that binds to the target substance and undergoes conformational change to push the substance to the other side of the membrane.
+                - Active Transport:: The net movement of dissolved substance across a semipermeable membrane against it's concentration gradient  _requiring an energy input (ATP)._  
+                    - Protein Pump Steps
+                        - 1:: The target molecule that is specific to the protein pump binds to the protein.
+                        - 2:: Energy from ATP causes a conformational (shape) change to the protein pump.
+                        - 3:: This results in the target molecule being pushed through the protein and released to the other side of the membrane.
+                    - ATP:: Adenosine triphosphate, a high energy molecule that, when broken down, provides energy for cellular processes.
+                    - Protein Pump:: A polypeptide that transports molecules across a membrane against its concentration gradient with the aid of ATP.
+                    - Why is active transport important?:: It enables the cell to maintain a stable internal environment even if there is extreme variation in the extracellular environment.
+            - **Membrane Concepts**
+                - ^^Selectively Permeable^^:: A {{property}} of cell membranes that ensures only  _{{specific}}_  substances pass across them but not others depending on their polarity and size. Also known as **semipermeable.**  
+                - Concentration Gradient:: The difference in solute concentration between two adjacent areas.
+            - **Solution Concepts**
+                - **Solution Terms**
+                    - Solute:: A substance dissolved in the solvent.
+                    - Solvent:: A liquid in which a solute is dissolved, forming a solution.
+                - **Tonicity**
+                    - Hypertonic:: Describes a solution with a higher solute concentration when compared to another.
+                    - Isotonic:: Describes a solution with the same solute concentration when compared to another.
+                    - Hypotonic:: Describes a solution with a lower solute concentration when compared to another.
+        - **3C Bulk Transport**
+            - Bulk Transport:: The type of [Active Transport](Biology Unit 3-4/AOS 1/Plasma membranes  /3B Transport Across Membranes/Transport/Active Transport.md) that uses vesicles to move large molecules or groups of molecules into or out of the cell.
+                - Exocytosis:: A type of [Bulk Transport](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Bulk Transport.md) that moves large substances out of the cell.
+                    - **Steps**
+                        - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbyslZjVsNnGd1GbkF_km67_7YrPuQ22uSH_so6DWHq5YUszU&s)  
+                        - 1:: A vesicle containing secretory products is transported to the plasma membrane.
+                        - 2:: The membranes of the vesicle and cell fuse.
+                        - 3:: The secretory products are released from the cell.
+                - Endocytosis:: A type of [Bulk Transport](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Bulk Transport.md) that moves large substances into the cell mediated by a vesicle.
+                    - Why is endocytosis important?:: Many of the molecules that the cell needs to survive are too large to transport through membrane proteins, these molecules enter the cell through [Endocytosis](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Bulk Transport/Endocytosis.md).
+                    - 
+                    - **Steps**
+                        - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQglHvpi1hmumFNILi_x4JvDWyskuNo8wRYIHYhIeNXii6Lmv0&s)
+                        - 1:: The plasma membrane folds inwards to form a cavity that the target molecule/s and extracellular fluid fills in.
+                        - 2:: The plasma membrane continues to fold in on itself until the two ends of the membrane meet and fuse, encapsulating the target molecule/s.
+                        - 3:: The vesicle pinches off the plasma membrane and either transported to appropriate cellular location or fused with a lysosome for digestion
+                    - Lysosome:: A vesicle containing digestive enzymes
+                    - 
+                    - Phagocytosis:: The [Endocytosis](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Bulk Transport/Endocytosis.md) of solid materials or food particles
+                    - Pinocytosis:: The [Endocytosis](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Bulk Transport/Endocytosis.md) of liquid or dissolved substances
+                    - 
+                    - Example of [Phagocytosis](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Bulk Transport/Endocytosis/Phagocytosis.md):: Immune cells like macrophages engulf invading microorganisms. #Phagocytosis
+                - Secretory Products:: the substances inside a vesicle that are being transported out of the cell.
+            - **Key organelles involved in protein secretion:**
+                - RER:: A membranous organelle, shaped like a series of connected, flattened sacs.
+                    - Function:: Folding and transporting proteins.
+                    - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qez64h8U2DWurG2MEdAvT5omAZsHaWO9Fs34B8Ko3HJk6VDD&s)
+                - Transport Vesicle:: A vesicle containing a protein that buds of the RER and travels to the Golgi body. The vesicle fuses with the Golgi body membrane and release the polypeptide chain into the lumen.
+                - Golgi Body:: An organelle made of flattened sacs of membrane![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUxqYF1Iy-jzv3R44I1yzEWcO4ntIM0Y3paY9VQ4wI3_xG-jU&s)
+                    - Why are proteins modified, sorted and packaged?:: Proteins undergo modification, sorting and packaging so that they reach the destination that they are supposed to.
+                    - Function:: To modify, sort and package proteins for export.
+                - Secretory Vesicle:: Vesicle containing proteins for secretion pinches of the Golgi body, travels through the cytoplasm, and fuses with the plasma membrane ([Exocytosis](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Bulk Transport/Exocytosis.md)), releasing proteins to the extracellular space.
+                - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFsVkfWte4ooouhHS_KTfGe7VRS-nKIWfXoEGMUlW7xFe4-M1c&s)
+                - Ribosome:: An organelle made of rRNA and protein that is the site of polypeptide chain synthesis via translation. Can be free or attached to [RER](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Key organelles involved in protein secretion:/RER.md).![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7L57At-PZpQZu8cMLmnFsEZzqaZbvkGNqIpHpYidhUz51Lc&s)  
+    -  _Nucleic acids and proteins_ 
+        - **4A Protein function and structure**
+            - **Protein function**
+                - Protein:: A type of biomacromolecule made of amino acid chains folded into a 3D shape![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6vI01Ym0BllE_AOWyH-O4i363w-oLZscFbKnr1t3kyehy4&s)
+                - Proteome:: The entire set of proteins expressed by a cell or organism at a given time.
+                - **Functional diversity of proteins**: As proteins take on many roles with vastly different functions, scientists label them as 'functionally diverse'.
+                    - As proteins take on many roles with vastly different functions, scientists label them as 'functionally diverse'.
+                - **Different types of proteins**
+                    - Enzyme:: A protein that acts as a biological catalyst that reduces the activation energy of specific chemical reactions.
+                        - E.g:: ATPase, RNA Polymerase, Amylase.
+                            - ATPase: Makes ATP in cellular respiration
+                            - RNA Polymerase: Undertakes transcription of nucleotide bases.
+                            - Amylase: A digestive [Enzyme](Biology Unit 3-4/AOS 1/Nucleic acids and proteins/4A Protein function and structure/Protein function/Different types of proteins/Enzyme.md) that breaks down starch into maltose
+                        - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvkBqxsXEvsvsO98YBxbFDqfzlH0vZfSy_N5gZxpjDxm1Neaac&s)  
+                    - **Transport protein**:: A protein that moves substances across membranes or around organisms.
+                        - E.g:: Sodium-Potassium Pumps, Glucose channels, Chloride channels
+                            - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2OUdII0q4djnwjeR5Ou-yccXTE98DK--a1fdPQaUyP-M75M&s)
+                    - Structural protein:: Protein that supports cell and tissue shape.
+                        - E.g:: Actin, Keratin, Elastin
+                            - Actin: Protein that is part of the cytoskeleton in eukaryotic cells that forms microfilaments.
+                            - Keratin: Tough protein found in skin, hair, and nails.
+                            - Elastin: Found in elastic connective tissues such as within skin.
+                        - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReqrYkpEjiqA5SPSvcYyZywzDHon9R1bP-MJfU39dIymOTN4g&s)
+                    - Receptor protein:: Protein within or on the surface of a cell that binds with signaling molecules, leading to a change in cellular activity.
+                        - E.g:: G-protein coupled receptors, Acetylcholine receptors, Hormone receptors
+                        - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpB-k65zcYrfsIOIWz_rTYGasFdQy-JCzMuSKRh90BwWblgbs&s)  
+                    - Peptide hormone:: A protein signaling molecule that regulates physiology or behavior. These proteins are chemical messengers used to communicate and induce changes in cells
+                        - E.g:: Insulin, Vasopressin, Growth hormone
+                            - Insulin: Regulates blood sugar levels 
+                            - Vasopressin: Regulates the amount of water in blood 
+                            - Growth hormone: Stimulates growth and regeneration of cells
+                        - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGznXeTufD_vPfRJsyqs6babXZqJdDB4ylVjO-hWtT5TobI0&s)  
+                    --------------------- Portal ---------------------
+ -- Avoided infinite recursion --                     - Anti-body:: A protein produced by plasma cells during the adaptive immune response that is specific to an antigen and combats pathogens in a variety of ways.
+                        - 
+                    - Motor protein:: A protein that converts chemical energy into mechanical work
+                    - Storage protein:: A protein that is a reserve of amino acids and metal ions
+                    - Amino acid:: The monomer of proteins
+                    - 
+                - **How are proteins formed?**
+                    - ![](https://useruploads.socratic.org/Pj2xAnIFTBuxwKWYL0Y6_aminoAcidStruc.jpg)
+                    - The **R-group** is the only part of the amino acid that varies across different amino acids.
+                    - Condensation polymerization:: Condensation polymerization is the reaction where two small molecules join to make one large molecule, producing water as a byproduct.
+                        - The hydroxyl group is removed from an amino acid and a hydrogen is removed from another amino acid, the two substances join to make water. A peptide bond is then formed between the two amino acid residues, forming a dipeptide.
+                    - 
+            - **Protein structure**
+                - Primary Structure:: The specific linear sequence of [Amino acid](Biology Unit 3-4/AOS 1/Nucleic acids and proteins/4A Protein function and structure/Protein function/Different types of proteins/Amino acid.md)s  joined by peptide bonds in a polypeptide chain.
+                - Secondary Structure:: The coiling and pleating of the polypeptide into alpha helices or beta pleated sheets due to the formation of hydrogen bonds within the polypeptide chain.
+                    - Alpha helix:: Loops of the helix are formed when the hydrogen and oxygen of distant amino acids bond in a coil. Relatively elastic.
+                    - Beta-pleated sheet:: Parts of a peptide fold back to align with neighboring parts of the polypeptide chain. Not elastic
+                    - Random coiling:: Areas of a polypeptide that don't align into organized structures, often found between organized structures. Assists in the unique shape of a protein.
+                    - ![](https://cdn.kastatic.org/ka-perseus-images/cd59edaf690af9b30fad410a48d4a8003f3cda53.png)
+                - Tertiary Structure:: The overall **3D** arrangement/structure into which a **polypeptide chain, including it's secondary structure**, **folds into** due to various interactions between the **variable R-groups**. A polypeptide can be called a protein at the tertiary structure if it has complete functionality.
+                - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tertiary_Structure_of_a_Protein.svg/512px-Tertiary_Structure_of_a_Protein.svg.png)
+                - Quaternary Structure:: When there are 2 or more polypeptide chains bonded together to form a protein. 
+            - **Summary**: Proteins a extremely important to a cell due to their functional diversity. They help with catalyzation, transport, support, signaling, immunity, muscle contraction, communication and many more. [Amino acid](Biology Unit 3-4/AOS 1/Nucleic acids and proteins/4A Protein function and structure/Protein function/Different types of proteins/Amino acid.md)s are able to form polypeptide chains through condensation polymerization. The primary structure is the sequence of amino acids, secondary is the folding and coiling of a section within a polypepide, teritary is the overall 3D arrangement of a protein, and lastly quaternary is the structure of either 2 or more polypeptide chains joined together, or a protein joined to a prosthetic group.
+        - **4B Nucleic acid function and structure**
+            - DNA:: A double helix molecule made of 2 polynucleotide strands. Carries genetic information that codes for the production of proteins.
+            - Chromosome:: Highly condensed structure consisting of a single DNA molecule and associated proteins.
+            - Gene:: A section of DNA that codes for the production of a protein.
+            - Genome:: All of genetic information found in a haploid set of chromosomes within an organism.
+                - Nucleic acids and Nucleotides:: Nucleic acids are chains of nucleotide monomers, nucleotides are the monomer subunits of nucleic acids and are made of a nitrogenous base, pentose sugar and a phosphate group.
+            - Phosphodiester Bond:: Strong covalent bond between the sugar group of a nucleotide and the phosphate group of another.
+            - Sugar-Phosphate backbone:: The alternating chain of covalently bonded sugar groups and phosphate group.
+            - Antiparallel:: A quality of [DNA](Biology Unit 3-4/AOS 1/Nucleic acids and proteins/4B Nucleic acid function and structure/DNA.md) strands that describes how each strand strands runs in opposite directions.
+            - Complementary base pairing:: Phenomenon where bases adenine always bonds with thymine and guanine always bonds with cytosine.
+            - RNA:: A single stranded polynucleotide chain. Uses uracil instead of thymine, is temporary, and has a oxygen atom bonded to the hydrogen atom at the 2' end of each ribose sugar.
+                - mRNA:: A single stranded polynucleotide strand that  _carries a copy of genetic information_  to  _ribosomes_  from the  _nucleus_ , where the message  _(via codons, 3 bases at a time)_  is translated into a  _polypeptide chain_ . Synthesized in the nucleus by RNA Polymerase through transcription.
+                - tRNA:: RNA Molecules that carry  _specific amino acids_  to ribosomes where form peptide bonds via condensation polymerization to construct polypeptide chains depending of their  _anticodons._  Is involved in  _translation_   
+                - rRNA:: Molecules that are a primary component of ribosomes along with protein. rRNA is synthesized in the nucleolus. 
+                - [Message](Edit Later/Message.md):: [Add Mnemonic](Edit Later/Message/Add Mnemonic.md) #Message
+            - Anticodon:: a trinucleotide sequence on a tRNA molecule that is complementary to it's corresponding mRNA codon.
+            - How are phosphodiester bonds created?:: Through a **condensation polymerization** reaction between the sugar group of one nucleotide and the phosphate group of another.
+        - **4C From DNA to Protein**
+            - Gene expression:: The process of by which a section of genetic information is used to synthesize a specific protein via mRNA synthesis.
+            - 
+            - **1. Transcription**.
+                - 
+                - ![](https://cdn.kastatic.org/ka-perseus-images/6e36b83cfdb73e9c706f3b7bdeb71398d4d5badd.png)
+                - 
+                - 1. Initiation
+                    - Specific proteins called  _**transcription factors **_  _bind to the promoter region_  **upstream of the gene of interest.**
+                    - This  _allows the RNA Polymerase to bind to the promoter region_  (TATA Box in eukaryotes). The ^^**DNA **^^^^ _**unwinds and unzips, exposing the nucleotides on the template strand**_ ^^**.**
+                - 2. Elongation
+                    - RNA Polymerase  _catalyzes the synthesis of of a pre-mRNA strand_  ^^**along the template strand**^^.
+                    - The RNA Polymerase  _reads the template strand in 3' to 5' direction_  and  _synthesizes the pre-mRNA strand in 5' to 3'_  direction from  _free floating RNA nucleotides in the nucleus that are complementary to the template strand_ .
+                - **3. **^^**Termination**^^
+                    -  Once the RNA Polymerase reaches the  _specific terminator region_ , the RNA folds back on itself, forming a  _hairpin loop_ , this  _detaches the pre-mRNA_  strand from the template strand. pre-mRNA is formed.
+                    - 
+                        - DNA unwinds to expose template strand
+                        - RNA Polymerase attach to specific sequence in promotes region of the gene.
+                        - pre-mRna is formed
+                - RNA Polymerase binds to the promoter region of DNA, specifically of the template strand. A section of DNA is 'unzipped' by the RNA Polymerase, and the enzyme begins to add complementary bases to the template strand. Note: In eukaryotes, the promoter region is often the sequence of bases ‘TATAAA’, commonly known as the **TATA box**. The pre-mRNA strand keeps growing until the RNA Polymerase reads the terminator region, the sequence of DNA that signals the end for transcription.
+            - **2. RNA Processing**** (PTM) **
+                - From pre-mRNA to an mRNA molecule.
+                - 
+                - ![](https://www.cshl.edu/wp-content/uploads/2018/08/exons_introns_splicing.jpg)
+                - 
+                - 1:: Addition of 5' methyl cap and poly-A tail
+                    - Function (Why?):: The addition of the 5' methyl cap prevents the RNA molecule from degrading, contributes to it's stability and assists the mRNA movement to the ribosome. The addition of the Poly-A Tail at the 3' end of the mRNA strand contribute to it's stability, this is done through slowing down the breakdown of mRNA in the cytoplasm.
+                - Introns:: Non-coding sections of RNA.
+                - Exons:: Coding regions of RNA.
+                - 
+                - 
+                - Process (How?):: Introns are spliced out during RNA Processing, and exons are joined together.'
+                    - 
+                    - Alternative splicing:: The process where  _**different**_  proteins can be produced from the  _**same**_  pre-mRNA strand, depending on whether or not  _**all the introns (non coding) were cut out**_  and discarded (intron retention) or if  _**all the exons (coding) are used**_  in the final mRNA (exon juggling. This means that different combinations of introns are removed and exons spliced together, producing structurally  different mRNA strands, hence leading to functionally different proteins.
+                        - A gene could produce a particular protein in a cell of a certain tissue, but produce a different protein in a cell of another tissue, this contributes to the functional diversity of proteins in the proteome.
+                - 
+                - 
+            - **3. Translation**
+                - The stage in which the mRNA molecule is translated into a protein.
+                - 
+                - ![](https://ib.bioninja.com.au/_Media/translation_med.jpeg)
+                - 
+                - 1. Initiation
+                    - Ribosome joins with mRNA strand to form the ribosome complex.
+                    - This initiator tRNA carries the first amino acid in the polypeptide to the ribosome, attatches it's anticodon to the complementary start codon and offloads the first amino acid in the polypeptide at the ribosome.
+                - 2. Elongation
+                    - A tRNA that has the complementary anticodon to the next mRNA codon carries a specific amino acid to the ribosome.
+                    - The tRNA anticodon binds to the complementary mRNA codon and offloads a specific amino acid at the ribosome.
+                    - The amino acids join together through peptide bonds via condensation polymerization between the amine nitrogen of an amino acid and the carbon carboxyl group of the adjacent amino acid, forming water as a byproduct. This process creates a polypeptide chain.
+                - 3. Termination
+                    - Termination of translation occurs once a stop codon in the mRNA enters the A site of the ribosome.
+                    - Specific proteins called release factors cause the detachment of the mRNA strand from the ribosome and the polypeptide is released.
+            - **Key Terms**
+                - Non-overlapping:: A quality of genetic code that means nucleic acids are read in consecutive sets of three nucleotides, and that each nucleotide is only part of one codon/triplet.
+                - Degenerate:: A quality of genetic code which means that more than one codon can code for the same amino acid.
+                - Universal:: A quality of genetic code which means that the same codons code for the same amino acids in all living things. All living things use the same nucleotide structure and and same bases (A,C,T/U,G)
+    -  _Enzymes_ 
+        - **5A Enzymes**
+            - Enzyme:: Enzymes are organic catalysts that lower the activation energy of reactions.
+                - Activation energy:: Energy required to initiate a reaction
+                - Active site:: The region on an enzyme where a substrate binds onto. 
+                    - Why can enzymes only bind with specific substrates? Explain:: ^^The active site on an enzyme makes enzyme specific.^^ The set of variable R groups of the amino acids found in the active site, along with their positions in 3D space give the ^^**active site a specific size, shape and chemical behavior**^^^^.^^ Therefore, only substrates with the specific properties and complementary shape to the active site can bind to the active on an enzym.
+                - Allosteric site:: Site on an enzyme that is not the active site that molecules can bind to and facilitate or inhibit the binding of a substrate, done through the reversible conformational shape change of the enzyme, influencing the enzyme's ability to be active.
+            - Characteristics of enzymes:: They are not used up in reactions, can sometimes work in both directions of a reaction and on entire pathways, and their active sites are specific to particular substrates.
+            - How does temperature and pH relate to enzyme activity?:: The activity of an enzyme is greatest at its optimal temperature, above this it begins to quickly denature. The activity of an enzyme is greatest and it's optimal pH value. Relatively high and low pH values can also denature enzymes.
+            - Effect of increasing enzyme concentration:: Increasing enzyme concentration increases the frequency of collision between enzymes and substrates, increases the overall rate at which reactants are converted into products. Increasing enzyme concentration will increase overall enzyme activity until there is not enough substrate.
+            - Effect of increasing substrate concentration:: Increasing substrate concentration increases frequency of collisions between enzymes and substrates, increasing the overall rate at which substrates bind and occupy active sites, increasing overall enzyme activity. Increasing substrate concentration will increase overall enzyme activity until the active sites of all the enzymes become occupied, causing them to become saturated and cannot catalyze reactions at a faster rate.
+            - 
+            - How does substrate concentration affect the speed of enzymatic reactions?
+                - Increasing substrate concentration increases the frequency of enzyme-substrate collisions, this increases the rate at which substrates bind and occupy active sites of  enzymes, increasing speed of enzymatic reactions. Increasing substrate concentration increases the speed of enzyme activity until a point where the active sites of all the enzymes are occupied. causing them to become saturated and plateau in rate/speed of enzymatic reactions.
+                - 
+                - Increasing enzyme concentration increases the frequency of enzyme-substrate collisions, this increases the rate at which reactants are converted to products. Increasing enzyme concentration increases speed of enzymatic reactions until a point where there is not enough substrate to occupy all the active sites of enzymes
+        - 5B Inhibiting Enzymes
+            - Inhibitor:: Molecule that binds to an enzyme and prevents or greatly reduces it's function of catalyzing enzyme-substrate reactions 
+            - Reversible inhibitor:: Inhibitor which can bind and disassociate from the active site or allosteric site of an enzyme, hence does not inhibit the enzymes function permanently.
+            - Irreversible inhibitor:: Inhibitor which permanently binds onto the active site or allosteric site of an enzyme, permanently inhibiting the formation of enzyme substrate complex and preventing the enzyme from functioning properly or at all.
+            - Competitive inhibitor![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UUqxSv8Lpdx9fH-fuECvsq01Srowzs0q3BhgKXqVXe-JGeU&s)
+                - Molecules that prevents the formation of an enzyme-substrate complex **by competing with the substrate at the active site**.
+                - This is done by the molecule** **^^**binding to the active site of an enzyme**^^,** blocking and preventing** specific substrates from binding to the active site of that enzyme.
+                - This is possible as the competitive inhibitor has a complementary shape to the active site, but does not trigger a enzyme-substrate reaction since it's structure isn't exactly the same as the substrate.
+                - **Increase in substrate will reduce the inhibitor's effectiveness**
+            - Non-competitive inhibitor![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcwi_TZO90RQZ5D2sICsM_g-Hho63X_WeN_2FPN6YaaRA6PBj&s)
+                - Molecules that prevents the formation of an enzyme-substrate complex by binding to the **allosteric site of an enzyme.**
+                - This causes a ^^**conformational shape change**^^ of an enzyme, hence of also ^^**it's active site**^^, **blocking and preventing **specific substrates from binding to the active site and preventing enzyme substrate reactions.
+                - Reduces the rate of reaction, **regardless of how much substrate is added.**
+        - 5C Coenzymes
+            - Cofactors
+                - Non-protein molecules
+                - These molecules bind to an enzyme, allowing the enzyme-catalyzed reaction to occur.
+                - Directly involved but not used in catalytic reactions, they act to stabilize the enzyme/substrates OR assist the enzyme to convert substrates from one form to another.
+                - E.g metallic ions like iron, calcium, copper, zinc, potassium, magnesium
+            - Coenzyme
+                - Organic cofactor
+                - E.g NADH, FADH2, NADPH, ATP
+                - Involved in transferring electrons or hydrogen from one molecule to another
+                    - NAD is a coenzyme that accepts electrons and ions to form NADH
+                    - NADPH and NADP+ in photosynthesis
+    -  _Photosynthesis and Cellular Respiration_ 
+        - 6A-6B How Photosynthesis Works
+            - **Light Dependent Reactions**
+                - Occurs: Thylakoid membranes
+                - Inputs:: Light Energy, H2O, NADP+, ADP + Pi
+                - Outputs:: O2 (Waste product), NADPH, ATP
+                - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MML6794kelsmLcbphvBnHaZjmA9zj1WQzAvzqw_rF2yhahE&s)
+                - Steps/Points
+                    - Light energy is absorbed by light-trapping pigments (mainly chlorophyll)
+                    - The absorbed energy is used to split water (H2O) into e-, 2H+ ions and 1/2 Oxygen (O2)
+                    - Energy is transferred to photosystems as electrons move across the thylakoid membrane pumping H+ ions along the thylakoid membrane
+                    - NADP+ uncharged carrier molecule accepts an electron to become a NADPH charged carrier molecule
+                    - Energy that travels across the electron transport chain pump H+ ions into the thylakoid lumen from the stroma which facilitates the ADP + Pi into ATP at the ATPase enzyme as it diffuses down it electrochemical concentration gradient back into the stroma (chemiosmosis).
+            - **Light Independent Reactions**
+                - Occurs at:: Stroma
+                - Inputs:: CO2, NADPH, ATP
+                - Outputs:: C6H12O6 (After 2 Cycles), NADP+, ADP+Pi, H2O
+                - ![](%LOCAL_FILE%3v7VUDYvL00myMFIA2RSYGSRg6FHLY_O4E_g3cA1m6xVJNUzs2x6rwj1a3YFi-Jxa5ZZPEdwZdaz_qWO_E26cXkeClPMALbIjp9HWjr38K1VI3n9p4D-4-qeiyONNvhv.png)
+                - Steps/Points
+                    - CO2 accepts electrons and H+ ions from NADPH in the presence of ATP to form C6H12O6 (Glucose sugar)
+                    - This sugar formation involves the Calvin cycle, a cyclic set of reactions catalyzed by enzymes in which intermediate substances are formed
+                    --------------------- Portal ---------------------
+                        -  _**Chemistry Unit 1**_ 
+                            - AOS1
+                                - O1
+                                    -  _Elements and the periodic table_ 
+                                        -  _ __5A-5C: Intermolecular Bonding__ _  __  __ 
+                                            -  _5C: Intermolecular Bonding_ 
+                                                - Types of forces
+                                                    - Dipole-Dipole forces:: **Electrostatic force of attraction** between **two polar molecules**, due to **permanent dipole moments**. The partially positive end of molecule bonds with the partially negative end of the other molecule
+                                                        - ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH22-jYYwONwsHSI4Fas35o0GoONvWLteDqRK3mZDD_XS8DO1j&s)
+                                                - **Dipole Concepts**
+                                                    - Polar molecule:: Molecules that **permanent dipole moment **as there is a **permanent **partially positive end and negative end of the molecule
+        - 6C Factors Affecting Photosynthesis
+            - **Factors affecting photosynthesis**
+                - Light intensity
+                    - Increase in light intensity increases the rate of **light dependent reactions,** therefore** photosynthesis increases proportionally.  **
+                    - This occurs as light intensity increases, more photons of light hit the leaf cells, causing a greater number of chlorophyll molecules to be ionized.
+                    - Above a certain light intensity, the rate of photosynthesis will eventually plateau due to **some other limiting factor like temperature, CO2 concentration.**
+                - Light Wavelength
+                    - Photosynthesis is **most efficient** when the wavelengths of light that hits the leaf are of **red and blue** wavelengths as **chlorophyll pigments** strongly absorbs red and blue light wavelengths
+                    - Photosynthesis is **least efficient** when the wavelength of light that hits the leaf is **green** as chlorophyll pigments itself are green, so it reflects green light and doesn't absorb and convert it into chemical energy.
+                - CO2 concentration
+                    - Increase in CO2 concentration increase the rate of **light independent reactions, **therefore **photosynthesis increases proportionally. **
+                    - This occurs as CO2 concentration increases, there are more collisions between CO2 substrates and enzymes involved in the Calvin cycle**, **so there is an increase at the rate of carbon fixation into a carbohydrate.
+                    - Above a certain CO2 concentration, the rate of photosynthesis will eventually plateau **due to saturation of enzymes involved in the Calvin cycle OR some other limiting factor like water, light, or temperature.**
+                - **Temperature**
+                    - Increase in temperature increases the **kinetic energy** of substrates and enzymes involved in photosynthesis, causing greater frequency of enzyme-substrate **collisions** and faster **rate of photosynthesis**.
+                    - However, **ABOVE **a certain **optimal temperature**, enzymes begin to **denature and undergo an irreversible conformational shape change at it's tertiary structure** so are unable to function, this causes the rate of photosynthesis significantly decreases past the optimal temperature.
+            - ATP Cycle
+                - ATP is broken down into ADP + Pi when cells require energy for metabolic processes
+                - ATP is continuously regeneratable as ADP + Pi can undergo phosphorolysis and form ATP when there is an energy supply (mainly from cellular respiration)
+                - 
+        - Cellular Respiration Required
+    - 
+- AOS 2
+    -  _Signaling_ 
+        -  _Apoptosis_ 
+            -  _ __**Apoptosis as a **__ _ ^^ _ __**natural, regulatory process of programmed cell death**__ _ ^^
+                -  _ __**initiated after a cell receives a signal from **__ _ ^^ _ __**inside (mitochondrial pathway)**__ _ ^^ _ __** or from **__ _ ^^ _ __****__ _ ^^
+                - ^^ _ __**outside (death receptor pathway)**__ _ ^^ _ __** the cell **__ _ 
+                -  _ __**resulting in the removal of cells that are no longer needed or that may be a threat to an organism,**__ _ 
+                -  _ __**mediated by **__ _ ^^ _ __**enzymes (caspases)**__ _ ^^ _ __** that cleave specific proteins in the cytoplasm or nucleus (details of specific cytoplasmic or nuclear proteins are not required).**__ _ 
+                - 
+                - Apoptosis:: A process of programmed cell death after a signal from the internal or external environment which eliminates cells without the release of harmful substances to the surrounding fluid.
+                    - Purpose and advantages of apoptosis?
+                        - To maintain normal tissue and organ function, prevent disease
+                        - Removal of **old** cells to maintain balance with the production of new cells
+                        - Removal of **damaged** cells like virally infected cells, cells with DNA damage, or cells with a build up of toxins
+                        - Removal of **inessential **cells like during embryonic development (webbing around fingers) or active immune cells after elimination of infection.
+                    - How is the ^^extrinsic pathway^^ activated (reception)?:: Through the activation/reception where an **immune cell** binds it **death ligand** protein (FAS ligand) to the **death receptor** (FAS or TNF) at the **surface** of the **target cells** plasma membrane.
+                    - 
+                    - ^^Caspase^^:: Enzyme that cleaves specific intracellular proteins like cytoskeleton during apoptosis, ^^**causing cells to bleb**^^.
+                    - 
+                    - How is the ^^intrinsic pathway^^ activated?:: Through internal cellular damage like **Organelle stress, DNA damage, Growth factor removal**.
+                    - Pro-apoptotic proteins:: Proteins which **induce cytochrome c release **by **altering the permeability of the mitochondrial membrane**
+                    - Anti-apoptotic proteins:: Proteins which inhibit pro-apoptotic protein function by binding to them.
+                    - Explain the intrinsic pathway transduction
+                        - Anti-apoptotic proteins are blocked after a signal of internal cellular damage.
+                        - Pro-apoptotic proteins alter the permeability of the mitochondrial membrane
+                        - This causes cytochrome c to be released into the cytosol
+                        - Cytochrome c activates caspases which break down proteins like cytoskeleton,, causing cell to bleb, caspases activate other caspases (caspase cascade) and endonuclease.
+            - 
+            - ^^ _ __**Malfunctions**__ _ ^^ _ __** in apoptosis that result in **__ _ ^^ _ __**deviant cell behavior**__ _ ^^ _ __** leading to diseases including cancer**__ _ 
+                - What happens if apoptosis malfunctions:: Apoptotic malfunction leads to **development disorders and disease **or if apoptotic bodies aren't cleared quickly enough and burst (**autoimmune disorders**). 
+                - 
+                - Excessive apoptosis:: Rate of cell death is greater than the rate of new cell production
+                    - Give 4 reasons why apoptosis may be excessive in an organism?
+                        - Increase in **pro-apoptotic proteins, **Decrease in **anti-apoptotic proteins**
+                        - Increase production in** trigger signals**
+                        - Increase in **caspase production**
+                        - Change in gene functioning, leading to excessive apoptosis
+                    - What diseases can occur?
+                        - Diabetes
+                        - Alzheimer's
+                        - Parkinson's
+                        - HIV
+                - Inadequate apoptosis:: Rate of cell death is lower than the rate of new cell production
+                    - Give 3 reasons why apoptosis might be inadequate?
+                        - Increase in **anti-apoptotic proteins, Loss or resistance **to **pro-apoptotic proteins**
+                        - Change in gene functioning leading to **deviant cell behavior **like Overriding apoptotic signals, Decreasing expression of death receptors, Mutation in caspases
+                        - Removal of death receptor proteins
+                    - What diseases/effects can occur
+                        - Cancer
+                        - Tumor growth
+                        - Autoimmune disorders
+                - 
+                - Mutagens
+                    - Substances that change DNA sequences, this can influence the rate of apoptosis
+                    - Cause irregularities in the **cell cycle**
+                    - Substances that mutate DNA which **directly increase the risk of cancer **are called **carcinogens**
+                    - Radiation like **UV, alpha, beta and gamma radiation**
+                    - Chemicals (**Mustard gas, asbestos**)
+                - 
+                    - Cancer:: A diseased in which cells are resistant to cell death (immortality) as they **inhibit normal cell regulation** leading **uncontrolled** cell growth. Cancers arise when organisms **accumulate many cells with mutations** which causes changes in **gene functioning** that control important cellular processes, leading to **deviant cell behavior**.
+                        - SORIE
+                            - Sustaining proliferating signaling
+                            - Overriding cell cycle checkpoints during cell division
+                            - Removal of death receptor proteins
+                            - Inducing Angiogenesis - blood vessel development that supply tumors with nutrients
+                            - Enabling replicative immortality without growth factor binding
+                - 
+                - How can deviant cell behavior cause cancer?
+                    - Deviant cell behavior can occur through a mutation that **changes gene functioning** that **overrides apoptotic signals**,
+                    - causing **upregulation** in anti-proapoptotic proteins and **downregulation** in pro-apoptotic proteins, decreasing **mitochondrial membrane permeability. **
+                    - This means the cell would **evade apoptotic stimuli**, which would inhibit cell death and lead to cell ^^**immortality**^^. The ^^**accumulation**^^ of cells with these **apoptotic inhibiting mutations** causes **tumor growth and cancer**.
+                - 
+                - How can deviant cell behavior lead to degenerative disease?:: 
+                    - Deviant cell behavior can occur when the a cell initiates an apoptotic response  _**even when there is no apoptotic stimulus**_ , leading to a degenerative disease.
+                    - So there is an **upregulation **in pro-apoptotic proteins, and **downregulation **in anti-apoptotic proteins, increasing **mitochondrial membrane permeability **and inducing cytochrome c release **even when there is no apoptotic signal**.
+                    - This causes the** death of healthy tissue cells that don't need to undergo apoptosis**, and leads to a degenerative disease (e.g. Alzheimer's.)
+                - 
+                - **Cancer**
+                    - The deregulation of BAX and BCL-2 proteins would mean there is a **downregulation** in BAX **pro**-apoptotic proteins and an **upregulation **in BCL-2 **anti**-apoptotic proteins, this would decrease ^^^^^^**mitochondrial membrane permeability**^^**.**
+                    - This means the cell would **evade apoptotic stimuli**, leading to cell ^^**immortality**^^.
+                    - The ^^^^^^**accumulation**^^^^ ^^of many of these cells with the apoptotic-inhibiting mutations would lead to tumor growth and cancer.
+                - **Degenerative disease**
+                    - The deregulation of BAX and BCL-2 proteins would mean there is an **upregulation i**n BAX **pro**-apoptotic proteins and an **downregulation **in BCL-2 **anti**-apoptotic proteins, this would increase ^^^^^^**mitochondrial membrane permeability**^^**.**
+                    - This means the cell would **release Cytochrome C** and lead to apoptosis even when there is **not a apoptotic stimuli**.
+                    - This would lead to death of healthy tissue cells ^^(could be said in stem of question)^^ that are not supposed to undergo apoptosis, leading to a degenerative disorder (e.g Alzheimer's, Parkinson's).
+                - 
+                - HASAI
+                    - Hormone therapy - breast and prostate cancer
+                    - Angiogenesis inhibitors - blocks blood vessel development
+                    - Signal transduction inhibitors - BRCA mutations like melanoma and colon carcinomas, blood cancers, ovarian and breast cancer
+                    - Apoptosis inducers - (activates pro-apoptotic proteins)
+                    - Immunotherapies - Including monoclonal antibodies
+                - 
+        -  _Cellular Signals_ 
+            -  _ __**The sources and mode of transmission of various signaling molecules to their target cell, including**__ _ ^^ _ __** plant and animal hormones, neurotransmitters, cytokines and pheromones**__ _ ^^^^  ^^
+                - **Cellular Fluids ******
+                    - **What can be labelled as interstitial fluids**: Substances like** tissue fluid **and **plasma **and located outside cells are called **extracellular fluid (interstitial fluid).**
+                    - How is tissue fluid separated?:: Tissue fluid and plasma are **separated** from each other by **thin flat cells** of **capillary** walls (smallest blood vessel).
+                    - What's intracellular fluid?:: The cytosol within all cells.
+                - 
+                - **Ligands **
+                    - What are ligands:: Substances that form **complexes (bind) **to biomolecules to serve a biological purpose. Usually associated with a **signal triggering molecule**, binding to a site on a target protein **(receptor)**.
+                    - What are target cells?:: Cells that **express genes** to produce **ligand-specific** receptors.
+                - Signaling Molecules:: Molecule that **c****ommunicates between cells **either within or between organisms through chemical or electrical signals to initiate a response. 
+                - **Homeostasis**
+                    - Define homeostasis:: The **maintenance** of a relatively **stable internal environment** kept within narrow limits .
+                    - What maintains homeostasis?:: Homeostasis is maintained by a **variety of signaling molecules **through **negative feedback **(stimulus response system) 
+                        - Homeostasis is maintained by a **variety of signaling molecules **through **negative feedback **(stimulus response system)
+                        - 1. Receptor detects change in internal environment
+                        - 2. Effector molecules respond by **counteracting the direction of change**.
+                - 
+                - Cytokines
+                    - **Small, hydrophilic protein signaling molecules** that specific to receptor, involved in the **immune system. **
+                    - They are **contact-dependent, **so autocrine or paracrine signaling methods/
+                - Pheromones
+                    - Chemical messengers that are excreted via glands from an organism to produce an effect in another organism
+                    - Trigger response in members of the same species, usually by binding to the olfactory receptors.
+                - Hormones:: **Chemical messengers **secreted in small quantities into the **extracellular environment** that bind to ^^**specific and complimentary**^^** target cell receptors** to produce a profound effect
+                - 
+                - **Signaling Pathways**
+                    - Endocrine:: Hormones that **act** different areas of an organism than the cells that produce it (**e.g** insulin)
+                    - Contact-dependent communication:: When **membrane-bound** signaling molecules of a cell act on other cells by anchoring to the **extracellular** protein receptors of their plasma membranes. (**e.g **organ and tissue rely on these methods, paracrine methods.)
+                    - Paracrine:: Hormones that act on **adjacent **cells in the area, do **NOT** enter the bloodstream (**e.g **within an organ or tissue)
+                    - Autocrine:: Hormones that act on the** same** cell that produces it (**e.g** continuous insulin production).
+                    - 
+                - **Steroid vs Protein Hormones**
+                    - Steroid hormones
+                        - **Lipid-based, **[Non-polar](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./PB Concepts/Non-polar.md)** ****, **[Hydrophobic](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./PB Concepts/Hydrophobic.md)** ****, insoluble in water**
+                        - These hormones travel in fluid attached to a **carrier** protein
+                        - From **hormone-receptor complex**
+                        - They secreted as produced (via [Exocytosis](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Bulk Transport/Exocytosis.md)** **), so **aren't stored**
+                        - They have a **long life-span, remain inside a cell longer**
+                        - These hormones usually use a** reception and response** pathway, not always a transduction phase of producing second messengers prior to response
+                    - Protein hormones
+                        - **Water soluble, **[Hydrophilic](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./PB Concepts/Hydrophilic.md)** , **[Polar](Biology Unit 3-4/AOS 1/Plasma membranes  /3A The Structure of The Plasma Membrane/Fluid Mosaic Model: The structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity./PB Concepts/Polar.md)** **
+                        - They have a **short life span**, lasting only as long as the proteins are functional.
+                        - Secreted via [Exocytosis](Biology Unit 3-4/AOS 1/Plasma membranes  /3C Bulk Transport/Bulk Transport/Exocytosis.md)** ** and can be **stored in secretory cells**.
+                        - Bind onto the **extracellular protein receptor **and initiate signal transduction pathway ([RTR](Biology Unit 3-4/AOS 2/Signaling/Cellular Signals/The stimulus-response model when applied to the cell in terms of signal transduction as a three-step process involving reception, transduction and cellular response  /RTR.md) )
+                - 
+            - 
+                -  _ __**Difference in signal transduction for **__ _ ^^ _ __**hydrophilic and hydrophobic**__ _ ^^ _ __** signals in terms of the **__ _ ^^ _ __**position of receptors**__ _ ^^ _ __** (on the membrane and in the cytosol) and **__ _ ^^ _ __**initiation of transduction**__ _ ^^
+                    - Hydro _phobic_  hormones:: Hormones that bind to specific protein receptors in the** intra**cellular region of the target cells, sometimes in the nucleus.
+                        - How can hydrophobic hormones easily pass through the plasma membrane:: Small, Non-polar and hydrophobic hormones can easily simply diffuse across the plasma membrane due to the membrane's **hydrophobic fatty acid tail interior** and **bind to intracellular receptor.** 
+                    - Hydro _philic_  **hormones**:: Hormones that bind to specific transmembrane protein receptors in the **extra**cellular region of the plasma membrane.
+                        - How can hydrophilic hormones
+                    - Initiation of transduction: Hydrophobic
+                        - **1.** Hydrophobic hormone binds to the specific protein receptors in the intracellular region of the cell, in the cytosol or nucleus, forming molecule-receptor complex.
+                        - **2. **Molecule-receptor complex travels to DNA and binds to regulatory proteins to alter gene expression, acting as a transcription factor.
+                        - **1. **Molecule-receptor complex activates or represses enzymes in the cell
+                    - Initiation of transduction: Hydrophilic
+                        - **1. **Hydrophilic hormone binds to the** specific **and complimentary transmembrane **protein receptors** in the **extracellular** region of the plasma membrane, causing the receptor to undergo a **conformational shape change**
+                        - **2.** **Second messengers **are produced in or** **released into the cytosol which relay amplify the stimulus signal and **effector molecules **initiate the cells response via signaling cascade
+                        - **3. ****Effector **molecules activate the cellular reaction
+            - 
+            -  _ __**The stimulus-response model when applied to the cell in terms of signal transduction as a three-step process involving **__ _ ^^ _ __**reception, transduction and cellular response **__ _ ^^** **
+                - **RTR**
+                    - What does Stimulus Response refer to?:: The process by which an organism responds to a stimulus, is the overarching process which includes the signal transduction process.
+                    - What does Signal Transduction of hormones refer to?:: Involves the conversion by a cell of an external stimulus to **one or more internal events **by a sequence of processes that take place inside the cell. e.g hormone to one or more internal events by a sequence of processes that take place inside the cell.
+                        - How can different cell types respond to the same signaling molecules?:: Different cell types may have the **same specific and complimentary receptors** for signalling, however they could have **different second messengers** and effector molecules, and hence ^^**activate different signaling pathways**^^ in different cell types    
+                    - Define Signal Transduction: **MUST INCLUDE RTR.**
+                        - Reception:: **Signaling** molecule binds onto the **specific and complimentary** protein receptor **expressed** by the **target cell**.
+                        - Transduction:: The** second messengers** are produced and released into the **cytosol**, the second messenger ^^ _**relays and amplifies**_ ^^ the **original** **stimulus** via a **signaling cascade **and activate **effector** molecules that initiate the cells **response.** 
+                            - Second messengers:: Molecules in the intracellular region of a cell that **relay and amplify **a stimulus and initiate the cells response via signaling cascade. 
+                        - Response:: **Effector** molecules activate the **cellular reaction.** The response is turned off by the by the breakdown of one or more of these molecules. MAIN Ex. Altering gene expression, apoptosis, synthesis or breakdown of molecules, molecule transport.
+        -  _Nervous System_ 
+            - Explain neuron structure
+                - Dendrites: Location on neuron where nerve impulse is received and sent towards cell body.
+                - Axon: Part of neuron where action potential is sent away from cell body and towards the axon terminal.
+                - Myelin sheath: Companion cells which trap their thick membranes around axon to form a thick insulating lipid layer, speeds up neural transmission
+                - Synapse: Location between neurons where the nerve impulse can be passed from the axon terminal of one neuron (pre-synaptic neuron) to the dendron of another (post-synaptic neuron) .
+            - **Neuron Types **
+                - What do sensory neurons do?
+                    - Sensory neurons are involved in the sensory (afferent) division of the PNS that transmits sensory information about the external or internal environments to the CNS where the information is processed.
+                    - Messages from receptors are sent away from the central organ and towards the brain or spinal cord.
+                - Why are motor neurons essential for survival?
+                    - Motor neurons are involved in the motor (**efferent**) division of the PNS and transmit information **away from the CNS**, **relay** messages from the **brain or spinal cord** to the **muscles** or organs. So if you pick up a hot cup, the receptors on the skin send signals to CNS (neuron to neuron) then eventually the CNS sends signal down to the motor neuron which connect to muscles (neuron to muscle) to relax the hand.
+            - Interneuron function
+                - **Relays** message from sensory (afferent) neurons to motor (efferent) neurons
+                - Found in the brain and spinal cord, part of the CNS.
+                - Only half of interneurons are myelinated. This is because interneurons are **short **so the **action potential loss is limited and there's not too much need for myelination**
+            - Neurohormones
+                - Chemical messengers released by neurons into the bloodstream that travel to the target organ where the signal is transduced and the receptor cell responds.****
+            - ^^ _Signal transduction between neurons_ ^^
+                - **Action potential **reaches the axon terminal and **depolarizes** the membrane. Change in **polarity **opens **Voltage-gated ion channels**, causing Ca2+ **facilitated diffusion into pre-synaptic terminal.**
+                - Neurotransmitter **diffuse **across the synaptic cleft and bind to **Ligand-gated Na+ ion channels** on the **post-synaptic dendrite.**
+                - **Na+ ions **flood inside axon on **post-synaptic neuron**, initiating **action potential**.
+                - To **prevent the continued activation of post-synaptic neuron**, neurotransmitters are:  _a._  **broken down by enzymes**,  b. **diffuse away **from the synapse, c. **taken up **by pre-synaptic neuron.
+                - 
+            - 
+            - 
+            - Mitochondria function in neurons:: To produce high amounts of energy (ATP) for the **exocytosis** of neurotransmitter in the secretory vesicles.
+            - At which step is the electrical signal in the nervous system converted to a chemical signal?:: When neurotransmitters are released into the synaptic cleft
+            - 
+            - 
+        -  _Plant hormones_ 
+            - Auxin
+                - Phototropism: Hormones that are repelled by a light stimulus and so diffuse from the apex to the shaded parts of the shoot. This higher concentration of auxin in the shaded part of the shoot causes the cells in that area to elongate so that the stem bends towards the light.
+                - Geotropism: Stimulus of gravity causes auxin to accumulate in lower parts of the plant, stimulates cell elongation in stem cell but inhibit it in root cells.
+                - IAA: Type of auxin that inhibits the growth of lateral buds **close to the apex**.
+            - Gibberellin
+                - Stimulates cell elongation and reproduction in stems and leaves
+                - Stimulate seed germination and bud development
+                - Increased Gibberellin concentration overrides Abscisic acid influence, **stimulating cell growth**.
+            - Cytokinin's
+                - Plant hormones that stimulate cell **reproduction and differentiate**
+                - balance growth of shoots and roots by determining which cells will become which type
+                - Major site in developing fruits as there is a rapid rate of cell division
+                - High auxin to cytokinin ratio = new shoot cell production
+                - Low auxin to cytokinin = new root cell production
+                - Delay leaf senescence (aging)
+            - Abscisic Acid
+                - Plant hormone that inhibits cell **growth,** maintains **seed dormancy **during adverse environmental conditions, like drought or low temperatures
+                - When water is limited, Abscisic Acid concentration increases and interferes with the K+ ion uptake by guard cells, closing the stomata. This inhibits the release of water and helping the plant survive in a drought
+            - Ethylene Gas
+                - Gaseous plant hormone that is release by plants into the environment that increases the ripening rate of fruits by increasing the rate of respiration into fruit cellls.
+                - Causes abscession: natural detachemt of parts of a plant like dead leaves
+    -  _Immunity_ 
+        -  _Pathogens_ 
+            - Define an antigen:: Any substance that can cause an immune response
+            - Antigen vs Epitope:: An antigen is the entire substance that can cause an immune response, whereas an epitope is the part of an antigen that binds to a receptor of an immune cell.
+            - ‘Self’ antigens:: made **by the body** – **MHC **markers
+            - 'Non-self’ antigens:: Materials that enter the body synthesized elsewhere
+            - Antigen vs Allergen vs Pathogen
+                - An antigen is a substance that causes an immune response
+                - An allergen is a substance which is otherwise **innocuous**, that causes an immune response
+                - A pathogen is a **causative agent of** disease.
+            - **Non-cellular pathogens vs Cellular pathogens**
+                - **Non-****Cellular**
+                    - **Prions**
+                        - Characteristics
+                            - **Small, abnormal and infectious misfolded proteins**
+                            - Cause ^^**damage to the nervous system**^^ (degenerative)
+                            - **Don't contain genetic material**
+                            - Cause gradual loss of motor coordination, dementia and paralysis
+                        - Replication
+                            - Prions replicate by coming into ^^ _**contact**_ ^^^^** with other proteins in**^^, converting them into prions
+                        - Treatment
+                            - Prions have **no known cure**. They can not be destroyed by the usual means of destroying proteins like ^^**increasing temperature and changing pH**^^.
+                    - **Virus**
+                        - Characteristics
+                            - ^^**Obligate, intracellular parasites**^^
+                            - Contain **DNA or RNA enclosed by one or more protein coats**
+                            - Lack the ^^**protein making machinery of cells**^^, so they can only replicate by infecting cells
+                        - Replication
+                            - Infect host cell by binding their** viral proteins** to the specific **receptors** on the extracellular region of host cell
+                            - if adenovirus, signals **endocytosis**, if retrovirus, fuses with the cell membrane, after the virus is inside the cell, it releases it's genetic material into the cytosol. (Bacteriophages) - **Inject nucleic acid** into cell
+                            - The genetic material directs the host cell's machinery to produce multiple copies of the viral protein coat, viral proteins phospholipid envelope and nucleic acid
+                            - **Copies of the virus are assembled within the host cell**, then the cell lysis and viruses are released into the extracellular fluid.
+                        - Treatment
+                            - Treated through **anti-viral drugs, vaccines**
+                    - **Viroid's**
+                        - Characteristics
+                            - Single circular RNA structure without protein coat
+                            - Infects plants
+                - **Cellular**
+                    - **Bacteria**
+                        - Characteristics
+                            - **Unicellular prokaryotic organisms** without membrane bound organelles, peptidoglycan cell wall
+                            - **Damage cell tissue** as they release digestive enzymes
+                            - The gram stain is a distinguishing feature of different bacteria groups
+                            - Gram negative means there are ^^**small amounts of disaccharides, amino acids and no teichoic acid**^^ **(DAT)**
+                                - Gram negative bacteria has an ^^**outer layer of lipid-soluble compounds**^^, allowing the bacteria to ^^**resist drugs like penicillin**^^
+                            - Gram stain is important as it helps identify the infecting bacteria and indicates which ^^**drugs will be effective on it**^^** **
+                        - Reproduction
+                            - Bacteria reproduce via asexual reproduction; binary fission when there are adequate nutrients and water, approproprate  temperature and pH.
+                        - Treatment
+                            - Through antibiotics and anti-bacterial drugs that inhibit cell wall synthesis
+                            - interfere with cell membrane
+                            - interfere with protein production
+                            - interrupt DNA replication
+                            - **Sensitivity tests test for anti-bacterial drug effectiveness**
+                    - **Protists**
+                        - Characteristics
+                            - Unicellular eukaryotes
+                            - Cause diseases like **chlamydia, malaria, African sleeping sickness**
+                        - Reproduction
+                            - Reproduce **sexually and asexually **
+                    - **Fungi**
+                        - Characteristics
+                            - Multicellular eukaryotes
+                            - Obtain their nutrients from the **decomposition of dead organic matter**
+                    - **Case Studies**
+                        - Arthropods
+                            - [Vectors](Biology Unit 3-4/AOS 2/Immunity/Disease/Vectors.md)  which cause** minor to serious diseases**
+                            - ^^**Generally parasitic but not necessarily pathogenic**^^
+                        - Worms
+                            - Multicellular eukaryotes which can secrete inhibitors
+                            - Infect plants and animals
+        -  _**Disease**_ 
+            - Chronic vs Acute
+                - Relates to the lasting effect of infections. Acute infections are when virus reproduce suddenly, so ^^**cell lysis occurs quickly**^^.
+                    - Acute infections last for a short period of time.
+                - Chronic infections are when ^^**viruses reproduce slowly, cell lysis is slower**^^, and so the infection lasts many years.
+            - Vectors
+                - Organisms that can transmit pathogens, is part of the microbe’s lifecycle.
+        -  _Innate Immunity_ 
+            - Innate immunity
+                - The body's ^^**non-specific immune system**^^ which involves many ^^**physical and chemical **^^**barriers**
+                - Has no **'**^^**memory**^^**' **of prior infection
+                - Responds the^^** same way**^^ for each infection of the same organism
+                - What is the effect of complement proteins on tissue?:: Increased blood flow, increased inflammation, increased phagocytosis   
+                - What is the general response to a second line of defense?:: Increased blood flow, increased inflammation, increased phagocytosis
+                - What property of cells enables the body to distinguish self from non-self?:: Self-antigens on cell produced by organisms, non-self antigens on pathogens
+            - **First line of defense**
+                - Physical Barriers
+                    - ^^**Intact skin**^^, foreign substances can enter when abrasion occurs
+                    - ^^**Mucous membrane**^^, line the digestive, respiratory and genitourinary tract, bacteria are trapped by mucous secreted by cells
+                    - ^^**Cilia action**^^ carry trapped bacteria to mouth, stomach or nose for removal
+                - Chemical Barriers
+                    - Acidic Secretions on skin and within genitourinary tracts and stomach
+                        - Low pH inhibit microbial growth
+                    - Lysozymes in tears, saliva and mucous
+                        - Break down (lyse) cell wall of many types of bacteria
+                    - Natural Secretions
+                        - Many secretions of the body contain bactericidal agents
+                        - Tears, saliva, semen, stomach acid
+                - Microbial Barriers
+                    - Natural Flora
+                        - ^^**Non-pathogenic bacterial presence**^^ prevents the growth of pathogenic bacteria as there is ^^**competition for space and nutrients**^^
+            - **2nd line of defense**
+                - **Leukocytes - WBC's**
+                    - Phagocytes - General
+                        - Leukocytes that ^^**engulf and breakdown**^^** **pathogens via phagocytosis
+                        - **Toll like receptors** interact with microbe's **PAMP's** - causing signal transduction
+                        - Phagocyte **engulf **microbe using it's **plasma membrane **forming a ^^**phagosome**^^
+                        - Lysosome **fuses **with phagosome (**phagolysosome)** - breaking down the **foreign **material
+                        - Note: Some phagocytes display ^^**antigens on their surface, Antigen-presenting cell (APC)**^^
+                    - Neutrophil![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Rv8ZfZHNYZ8j11lsyp3lBbkNM9iGyLPO9FlQnt6N37qTdSJ1&s)
+                        - Type of **phagocyte**
+                        - Circulates the **bloodstream **and is the first to site of infection
+                        - Signaled by ^^**chemokines**^^, chemicals released by **damaged or infected cells**. **(CHEMOTAXIS)**
+                        - ^^ _**Attach and engulf damaged tissue and microbes**_ ^^^^ ^^
+                        - Distinguishing characteristic - **Apoptosise after infection**
+                    - Monocyte/Macrophage![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTew3vj_vJnjAe9ZCCN0Bxj-soKwpb2hJgoTF9naqn7p66fLSA&s)
+                        - Monocyte: Leukocyte that leaves the bloodstream, differentiate into macrophage
+                        - Macrophages are phagocytic and have a ^^**long life span**^^
+                        - Extend a structure called **pseudopodia **^^**that binds to carbohydrates on the surface of microbes**^^. It then draws the microbe in, encasing it in a vesicle ^^**(phagosome)**^^^^ ^^which **fuses to a lysosome **to have the foreign material broken down.
+                        - Distinguishing feature - **APC's**
+                    - Dendritic Cell:: **Phagocytic cells that are APC's that once activated, migrate to **^^**lymph nodes or spleen**^^** to**^^** present antigen **^^**as to activate **^^**B cell and T cell**^^^^ ^^ 
+                    - Link - Natural Killer Cells![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1d35IG892g3ZGOlZHUkSyOfUsxJRPUHvGaClPYxHERnk531Dk&s)
+                        - ^^**Cytotoxic lymphocyte**^^
+                        - ^^**Destroy virally-infected cells and abnormal body cells (cells that could be tumorous/cancerous)**^^
+                        - Do **NOT phagocytize microbes, they cause **^^**cell membranes to lyse**^^^^ ^^
+                        - **Respond quickly** to an infection as have ability to ^^**recognize stressed cells in the absence of antibodies and MHC marker**^^^^**s**^^
+                        - **Links** 2nd and 3rd line of defence
+                    - The main difference between cytotoxic T cells and natural killer cells is that:: Natural killer cells do not form memory cells, whereas cytotoxic T cell do form memory cells 
+                    - Basophils/Mast Cells![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzam5ueMUmjNPcpONi3k82cxNP76ySBCKKh7bXhGjHPtqM4XG3&s)
+                        - Leukocytes that have important roles in **wound healing**
+                        - Less than 1% of WBCs
+                        - **Live in tissue**
+                        - **Granulated with **^^**histamine and release it upon contact with non-self antigens **^^**(links with allergic response)**
+                        - ^^**Mast cells, stationary leukocytes, in lungs, blood vessels and gut**^^** **
+                        - ^^**Basophils, circulate through blood and tissue**^^^^ ^^
+                    - 
+                    - dsjfsdjf![](%LOCAL_FILE%XYdhvuCG5g-0zoIwr6PsbHU79SLPWNDL2LRwk1iujGe3da2KESiAnbTRwZL7OeaOjuTveoLJSNAfCsS8ojP2xsmJQMrVVzCupVg8tew352lNmysJo8gnkytzIy5NZDDY.png)
+                        - asdgsa
+                    - fghfhgf
+                        - 
+                - **Defensive Molecules**
+                    - Complement Proteins![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmblwJuaTuUn2OS73e70u9ER6mnDL-xmbNGM1ELIo2IAJ5w6I&s)
+                        - Small **proteins **that circulate bloodstream
+                        - Found in **inactivated **form,^^ ^^^^**activated when it comes into contact with non-self antigens during infection**^^^^ ^^
+                        - Produced by almost all immune cells **(mainly T-cells)**
+                        - 
+                        - Activation results in: Attach to invading organisms **(**^^**neutralization**^^**)**,
+                        - Attract phagocytes and coat the surface of a pathogen making it more susceptible to phagocytosis **(**^^**opsonization**^^**)**
+                        - **Lyse **pathogen's plasma membrane **(**^^**lysis)**^^
+                        - Cluster and bind pathogens together **(**^^**agglutination**^^**)**
+                    - Cytokines
+                        - Small, hydrophilic protein signaling molecules
+                        - Only cells with the specific and complimentary receptor can respond to cytokines
+                    - Chemotaxis:: The movement of cells along chemical concentration gradient towards chemokine - from low to high concentration of the area of infection.
+                    - Chemokines
+                        - Chemical attractant
+                        - Attracts leukocytes to infection through chemotaxis
+                    - Interleukins -![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CgxApZv-DdGVxaR3s5KaQtNgA7bM2vAe9h_JBBOBOM56_Vb_&s)
+                        - Cytokines secreted by phagocytes
+                        - Attract **WBC's**
+                        - Responsible for activating **B and T cells**
+                        - Stimulate immune response - inflammation, ^^**FEVER **^^
+                        - Fever
+                            - When the core body temperature is more than <38
+                            - Interleukins secreted by macrophage circulate to ^^**hypothalamus**^^^^ , trigger increase in core body temperature^^
+                            - This impedes microbial replication rates
+                            - Increase rate of immune cell production
+                    - Interferons![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwDvIiuSw8qFn-rqAQAlertD_XWa2jjSZA562IaCzVwjP07Fc&s)
+                        - Cytokines that interfere with the **replication of virus's**
+                        - Secreted by virally infected cells
+                        - Diffuse to unaffected cells, bind to specific and complimentary extracellular receptor, causing signal transduction, leading to the activation of genes that code for antiviral proteins, helping prevent virus's replication
+                        - Specific interferons activate phagocytes
+                        - Attract NKC's
+                - Explain how the immune system combats pathogens?
+                    - 1. The presence of foreign material is recognized using the outer surface of invaders OR their toxins and enzyme secretions.
+                    - 2. Host cell response stimulated. Host cell recognizes **pathogen-specific molecules** called Pattern-Associated Molecular Patterns **(PAMP's**). Immune cells recognize these molecules using Pattern Recognition Receptors ^^**(PRRs**^^) These include toll- like receptors (TLRs) and NOD- like receptors (NLRs) in the cytoplasm
+                        - e.g peptidoglycan cell wall, chitin, glycoproteins, lipopolysaccharides.
+                    - 3. This leads to the ^^**destruction and removal**^^ of the pathogen
+                - **Inflammatory Response**
+                    - The **innate **response to infection or damage
+                    - Slows spread of infection and speeds up tissue regeneration
+                    - Symptoms: Pain, Heat, Redness, Swelling, Loss of function
+                    - Process
+                        - Pathogen breaches the first line of defense
+                        - 2. Damage tissues release ^^**Histamine**^^
+                            - Local mast cells release histamine which causes **vasodilation and increased permeability** of local blood vessels occurs
+                            - This enables **more blood and immune cells** and molecules to reach site of infection including Phagocytes
+                        - 3. ^^**Chemotaxis**^^
+                            - Phagocytes are attracted by **chemokine **release from **damaged **cells (chemotaxis
+                        - 4. Phagocyte attack
+                            - ^^**Neutrophils **^^are **first to breach**, ^^**phagocytose and then apoptose **^^^^  ^^
+                            - ^^**Macrophages**^^** ****squeeze through capillary walls** and engulf **pathogens**
+                        - 5. [Fever](Biology Unit 3-4/AOS 2/Immunity/Innate Immunity/2nd line of defense/Defensive Molecules/Interleukins -https:--encrypted-tbn0.gstatic.com-images?q=tbn:ANd9GcR7CgxApZv-DdGVxaR3s5KaQtNgA7bM2vAe9h_JBBOBOM56_Vb_&s/Fever.md)
+                            - **Macrophages **release cytokine (^^**interleukin**^^), raising core body temperature from hypothalamus
+                        - 6. **Complement protein** ^^activation^^
+                        - 7. Platelets cell fragments move out of capillaries to ^^**clot **^^wounded area
+            - **Plant Defense**
+                - Physical Barrier
+                    - **Thick, impermeable cuticle** make it difficult for pathogens to puncture
+                    - **Hairs prevent a stable surface and thorns** may deter pathogens or vectors
+                    - **Resin** plugs wounds to inhibit entry
+                    - **Galls** may form around infection site to confine infection
+                    - **Shredding** of infected leaves/ branches
+                - Chemical Barriers
+                    - **Hormones and plant toxins** repel pathogens
+                    - **Anti-microbial chemicals** – localized response
+                - 
+        -  _**Adaptive Immunity**_ 
+            - Adaptive Immunity
+                - The bodies ^^**specific immune system**^^** **which involves ^^**specialized cells and chemicals**^^ called ^^**antibodies and cytotoxic T cells**^^^^ ^^
+                - Recognizes the **specific epitopes and antigens**
+                - Has **'memory' **of prior infection
+                - Has a ^^**greater and rapid response on a second infection**^^ of the same organism
+            - **3rd Line of Defense**
+                - **Lymphatic System **
+                    --------------------- Portal ---------------------
+ -- Avoided infinite recursion --                     - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - 
+                    - ectionally which contain infection fighting WBC's, lymph drains through lymph nodes where APC's present antigen to initiate cell mediated or humoral response via B or T cells.
+                    - Lymph:: **Fluid **that flows unidirectionally through the lymphatic system, towards lymph nodes and eventually lymph vessels where it drains back into the circulatory system, contains infection fighting WBC's
+                    - Lymph is ^^**NOT**^^^^ ^^ pumped through the lymphatic system, but relies on ^^**muscle contractions**^^ and valves
+                    - Composed of primary and secondary organs like bone marrow and thymus
+                    - Lymph Nodes
+                        - Encases **B and T cells, memory and naïve cells**. Lymph fluid drains through lymph nodes ^^**unidirectionally**^^
+                        - Antigen-presenting cells move into lymph nodes via lymph vessels that drain from blood
+                        - Lymphocytes can come across and bind to their specific epitiope of the antigen from the APC,
+                        - leading to naïve B or T cells to undergo clonal selection and leading to a specific adaptive immune response
+                    - Primary Lymphatic System:: Responsible for the ^^**development and production**^^** of immune cells** 
+                        - Bone marrow
+                            - To produce stem cells that differentiate to all **leukocytes and lymphocytes**
+                            - All **blood cells** **develop **from here
+                            - **B **Cells undergo **self tolerance** and **mature **here
+                        - What happens if bone marrow is damaged?:: Damagehere would mean reduced immune response and impaired ability to remove pathogens from their body.
+                        - Thymus:: T cells undergo development/maturation here
+                    - Secondary Lymphatic System:: ^^**Harbor**^^** matured immune cells **and** **provide the** **^^**environment**^^** **for the** initiation of the **^^**immune response**^^ 
+                        - Spleen:: ^^**FILTERS BLOOD**^^**, ** detects **foreign invaders **and produces **antibodies**
+                        - Mucosal-associated lymphoid tissue (MALT):: ^^**Survey **^^for **pathogens **and protect from invaders
+                    - Lymphatic System vs Circulatory System
+                        - Lymphatic system requires muscle contraction for movement whereas the circulatory requires heart
+                        - Both have valves
+                - B Lymphocytes
+                    - Made and matured in Bone Marrow
+                    - Responsible for the destruction of pathogens by producing proteins - antibodies
+                - T Lymphocytes
+                    - Made in Bone Marrow, mature in Thymus
+                    - Destroying virally infected and cancerous cells - Cytotoxic T cell (TC)
+                    - Helper T (TH) and Regulatory (TREG) assist the other lymphocytes in performing their roles
+                - Antibodies
+                    - ^^**Coating **^^of cellular binding sites of pathogens – inhibiting connection to the host (^^**neutralization**^^)
+                    - Antibody binds to antigen, marking the microbe  _more susceptible to phagocytosis_  (^^**opsonization**^^)
+                    - Antibodies ^^**cluster and bind**^^ pathogens together (^^**agglutination**^^) - Easier to destroy pathogen
+                    - ^^**Activate **^^complement proteins to aid in pathogen destruction
+                - Humoral Response
+                    - APC like dendritic cell will engulf the pathogen, then present the non-self antigen on its MHC 2 marker and migrate to the lymph node via lymph.
+                    - -Free pathogen-specific antigens will also migrate to the lymph node and bind to the specific naive B cell with the complementary receptor, clonally selecting it.
+                    - -Another APC will bind the pathogen-specific antigen on its MHC 2 marker to the CD4 receptor on the T helper cell, stimulating the release of interleukins, which bind to the clonally selected B cell and fully activate it, causing clonal expansion
+                    - -The B cell proliferates and differentiates into B memory cells and B plasma cells, which produce the antigen-specific antibodies that neutralise, opsonise, agglutinate and activate complement proteins to destroy the pathogen.
+                    - -The memory B cells will reside in the lymph nodes of the body for the rest of the person's life and produce many more antibodies on subsequent exposures, leading to a larger and faster response to the pathogen, the person remains immune to the pathogen.
+                - 
+            - **Vaccine and Malfunctions**
+                - Vaccines:: Contain dead or attenuated microbes, are used to activate an adaptive immune response to produce antibodies against specific pathogens without actually causing the disease
+                - Why are vaccines effective?:: Vaccine will allow the body to create the pathogen-specific antibodies in the case a functional pathogen enters, all without actually harming the person.    
+                - Discuss why a vaccine that has the same antigens in it as a pathogen cause an adaptive immune response?
+                    - The antigens in the vaccine would activate the innate immune system and **antigen presenting cells** (macrophages and dendritic cells) would **phagocytose** the antigens.
+                    - The APC would migrate to a lymph node and present the antigen on it's **MHC 2** marker to activate T helper cells, which then activate naïve B cell that has encountered and presented same antigen
+                    - Through clonal selection, the specific B and T cells that contain a receptor that is specific and complimentary to the antigen would proliferate and differentiate (Clonal expansion) into B plasma cells/cytotoxic T cells, and B and T ^^**memory cells**^^ which reside in the lymph nodes to allow for ^^**larger and faster**^^ immune responses on subsequent exposures.
+                    - 
+                - **Types of immunity **
+                    - Natural, Passive:: When an individual receives antibodies through natural means, memory cells are not produced, e.g. through breast milk or through blood-placenta barriers. 
+                    - Artificial, Passive:: When an individual receives antibodies through medical intervention, memory cells are not produced
+                        - e.g. Injected with immunoglobins
+                - Monoclonal Antibody:: Artificial protein that mimics the function of a human antibody, used to target specific antigens like on cancer cells.
+                - How are monoclonal antibodies used to treat cancer?
+                    - Organism like mice is injected with cancer-specific antigen, stimulates clonal selection and expansion of B cells
+                    - B plasma cells are harvested and artificially fused with myeloma to create immortal cells. Hybrid cells called hybridoma divide and produce antigen-specific antibodies
+                    - Hybridoma produces identical monoclonal antibodies specific to antigen on cancer cells
+                - Explain how the immune response in a vaccinated mouse would kill invading H. pylori cells?:: The vaccinated mouse would have many memory B cells specific to the bacteria from the first exposure. When the bacteria infect the mouse, APC phagocytes would engulf the bacteria and display the antigens on their surface. T Helper cells would bind their CD4 receptor to the epitope of these antigens on the APC, activating many memory B cells to divide and produce plasma cells with antibodies against the bacterial antigens. These antibodies would destroy the H. pylori bacteria before stomach ulcers could form. 
+                - Describe stages of an allergic reactions
+                    - Allergen enters body, normal humoral response occurs
+                    - B plasma cells produce ^^**IgE antibodies which bind to mast cells via their heavy chain, individual is sensitized**^^
+                    - On second exposure, allergen binds onto specific IgE antibodies on mast cells
+                    - Stimulates degranulation, releases pro-inflammatory molecules like histamines and cytokines, Smooth-muscle contraction (airways blocked), vasodilation and increased permeability of blood vessels (inflammation)
+                - Anti-venom
+                    - Is anti-venom passive or active:: Passive as there is no memory cell formation as there are only antibody proteins in the vaccine.
+                    - Does anti-venom provide immunity:: No, as no non-self antigens were involved, no adaptive immune response occurred, no memory cells produced and so person would not be immune. 
+                - Explain autoimmune diseases using multiple sclerosis
+                    - Leakage occurs in the blood-brain barrier, allows for entry of immune cells which recognize the nerve tissue as foreign
+                    - **Inflammation causes the **removal of the myelin from neurons and degradation
+                    - **Myelin antigens are released into the lymphatic system, **immune cells are attracted to site (**chemotaxis)**
+                    - **Activated TH cells **permeate the blood-brain barrier, release **cytokines **which activate other immune cells, producing more **myelin antigen**
+                    - **B cells **produce **antibodies **than bind to myelin, increasing phagocyte action
+                    - Process cannot be stopped as the cycle of damaged nerves releasing chemokines is a positive feedback loop which is unstoppable
+                    - However, multiple sclerosis can be slowed by the use of anti-inflammatory drugs
+        - 
+        - 
+- Experimental Design
+    - IV: What's changed **biologically**(units)
+    - DV: What's measured **specifically and biologically**(in units)
+    - CV( 2): What is controlled **specifically **(2)
+    - Hypothesis: If ...(EG), then...(Expected result)
+    - Experimental and Control Group (WITH SAMPLE SIZES): Control group lacks **IV **and acts as a **baseline (with SS)**. Experimental Group, the group that is **being experimented on** **(with SS).**
+    - Repeat: Number of repetitions (e.g 3)
+    - Simple Step that include
+    - Results to support hypothesis
+    - **MODEL ANSWER**:
+        - IV: Auxin presence, DV: Bending of plant stem (as compared to plant hormones), CV (2): Light intensity, Water amount (litres), plant species.
+        - Hypothesis: If the auxin is removed through apical bud removal, the plant stem will bend towards the light source.
+        - Experimental Group: 50 chilli plants with apical bud removed
+        - Control Group: 50 chilli plants with apical bud not removed
+        - Repeat: 3 times
+        - Experiment:
+        - 1. Set up 100 chilli plants in the same pot (with fixed water amount in litres) in a room with a light source of controlled light intensity.
+        - 2. Remove the apical bud of only 50 of the plants.
+        - 3. Measure the bending of plant stem as compared to the light source, repeat 3 times.
+        - Results to support hypothesis: The 50 plants that had their apical bud removed would not bend their stem towards the light source, the other 50 that didn't have their apical bud removed would bend their stem toward the light source.
+- Mistake List
+    - SAC 1 Nucleic Acids and Proteins: 88
+        - The function of genes:: to carry inherited genetic information from one generation to the next.
+        - 
+        - Process and application of alternative splicing:: When a gene is transcribed by RNA polymerase, a pre-mRNA strand is produced. This pre-mRNA strand can produce different mRNA molecules depending on whether or not all introns are cut out or discarded (intron retention), and whether or not all exons are used in the final mRNA strand (exon shuffling). This process of alternative splicing leads to the production of structurally, hence functionally diverse proteins.
+            - 
+            - 
+        - Template strand includes **triplets **and **not codons**
+        - Genetic code sequences are found on **DNA**, cannot use template/coding strand.
+        - **X** amount of amino acids are coded by **3X** amount of bases and **X** amount of codons/triplets.
+        - Nucleotide subunits are **phosphate groups, pentose sugar, nitrogenous base**. RNA and DNA subunits are **nucleotides**
+        - **DNA** includes **deoxyribose** sugar WHEREAS **RNA** contains **ribose **sugar
+        - 
+        - When referring to the **chemical reaction type**, must say **anabolic or catabolic (ATP released/required).**
+        - 
+        - Whenever comparing **mature mRNA **to **pre mRNA, **always include **POST TRANSCRIPTIONAL MODIFICATION.**
+        - Regulatory genes:: Genes that code for proteins that control the expression of other genes (inducers or repressors).
+        - Insulin is a **hormonal protein**
+        - Repressors are inhibited as to always **reduce waste of ATP**
+        - State that tRNA carried a specific amino acid to the ribosome **before **stating that it attaches it anticodon...
+        - mRNA codons are read by ribosome **5' to 3'**
+        - 6h U3AOS1 SAC 1:
+            - 
+            - 
+            - ^^Component X is a mature mRNA strand, and when it was first made in the nucleus, it was in the form of pre-mRNA. - ^^^^ _Context of the question._ ^^
+            - ^^This pre-mRNA underwent ^^^^**post-transcriptional modification **^^^^(^^^^ __Always state the process being discussed first__ ^^^^), and the part of post-transcriptional modification (^^^^ __specificity__ ^^^^) that made the pre-mRNA smaller is the ^^^^**splicing out of non-coding introns**^^^^ and joining of ^^^^**coding exons **^^^^(^^^^ __Buzz words)__ ^^^^**,**^^^^ forming a ^^^^**smaller molecule**^^^^.^^
+            - ^^[This smaller molecule coupled with other modifications left the nucleus and attached with component A as a mature mRNA strand that is smaller in size than when it was first made in the nucleus.] - ^^^^ _Link back to question_ ^^
+            - 
+            - ^^After translation, the molecule formed will be in its secondary structure as it has undergone specific folding at the endoplasmic reticulum, however, this molecule still needs to fold into it's tertiary/quaternary structure in order to become a functional protein and it also needs to packaged into a secretory vesicle to then be exported to its appropriate location outside the cell.^^
+            - ^^So the molecule travels to the Golgi Complex to be modified into a functional protein, sorted and packaged^^ ^^into a secretory vesicle and exported by its vesicle fusing with the cell membrane and releasing the protein into the extracellular environment, via exocytosis.^^
+    - SAC 2 Enzymes and Cellular Processes 80
+        - 1. Enzymes reduce the activation energy of chemical reactions and **act as a biological catalyst.**
+        - 2. Be specific in the experimental design variables **(use data)**
+        - 3. Photosynthesis is an **anabolic reaction (glucose formation), **cellular respiration is a **catabolic reaction (glucose breakdown).**
+        - 4. Glucose is a **monosaccharide**
+        - 5. Chloroplast are **NOT found in all plant cells or any bacterial cells (root cells)**.
+        - 6. Cellular respiration and photosynthesis **consume O2 and CO2 at different rates when factors are changed.**
+        - 
+    - SAC 4 Immunity
+        - Adaptive Response
+            - If a response is specific then it is:: Adaptive
+            - Bone Marrow function and effect of damage:: To produce stem cells that differentiate to all leukocytes and lymphocytes, damage here would mean reduced immune response and impaired ability to remove pathogens from their body.     
+            - The main difference between cytotoxic T cells and natural killer cells is that natural killer cells:: Natural killer cells do not form memory cells, whereas cytotoxic T cell do form memory cells
+            - What occurs when an individual becomes sensitized to an allergen?:: IgE antibodies produced during humoral response to the allergen, bind to mast cells via the heavy chain. sensitizing the individual.
+                - This is a what question, so you need to explain the process. It also says when, meaning during the event of someone being sensitized, not directly after. So with these question, if it doesn't say after, you assume its happening presently and you need to explain it.
+            - bind to mast cells via the heavy chain. sensitising the individual
+        - Vaccines and Malfunctions
+            - When a micro-organism is exposed to a person, what kind of immunity is it?:: Natural, acquired and specific
+            - A human is bit by a radioactive spider, the best remedy for this is?, Explain your answer
+                - You can't use spider antibodies since they will recognize the venom as 'self'
+                - You can't antibodies from other animals unless they are specific to the spider venom
+                - The best choice is to use venom antitoxin raised in another animal so that when injected into the human, it neutralizes the toxin
+            - Why is aids so difficult to treat?:: AIDS causes T helper cell levels of 200 cells/mm3, this is a critically low level of important immune cells, this means the immune system is compromised and trying to kill the virus may cause more damage that could be fatal
+            - Why are multiple doses sometimes required?:: Some vaccines don't give an individual lifelong immunity and their effect declines after the initial dose, that why sometimes multiple doses or 'booster' doses are required to re-expose the individual to the pathogen-specific antigen and cause increased immunity to the pathogen which will suffice the protection needed.
+            - Discuss why a vaccine that has the same antigens in it as a plasmodium cause an adaptive immune response?
+                - Although this was a why question, because it was 3 marks and ask why something causes a response, you can treat it like a how question as they are similar
+        - 
+    - SAC 3 Apoptosis and Cell Signaling 76
+        - Apoptosis
+            - How could the deregulation of BAX and BCL-2 (pro and anti- apoptotic proteins) contribute to a degenerative disease? Cancer OR Degenerative disease
+                - **Cancer**
+                    - The deregulation of BAX and BCL-2 proteins would mean there is a **downregulation** in BAX **pro**-apoptotic proteins and an **upregulation **in BCL-2 **anti**-apoptotic proteins, this would decrease ^^**mitochondrial membrane permeability**^^**.**
+                    - This means the cell would **evade apoptotic stimuli**, which would inhibit cell death and lead to cell ^^**immortality**^^.
+                    - The ^^**accumulation**^^^^ ^^of many of these cells with the apoptotic-inhibiting mutations would lead to tumor growth and cancer.
+                - **Degenerative disease**
+                    - The deregulation of BAX and BCL-2 proteins would mean there is an **upregulation i**n BAX **pro**-apoptotic proteins and an **downregulation **in BCL-2 **anti**-apoptotic proteins, this would increase ^^**mitochondrial membrane permeability**^^**.**
+                    - This means the cell would **release Cytochrome C** and lead to apoptosis even when there is **not a apoptotic stimuli**.
+                    - This would lead to death of healthy tissue cells ^^(could be said in stem of question)^^ that are not supposed to undergo apoptosis, leading to a degenerative disorder (e.g Alzheimer's, Parkinson's).
+        - Cell Signaling
+            - [Mitochondria function in neurons](Biology Unit 3-4/AOS 2/Signaling/Nervous System/Mitochondria function in neurons.md)
+            - **Seeds don't use photosynthesis as they are underground and do not have a light stimulus, light is required for the light-independent stage o**f
+        - SAC Review
+            - **Multiple choice**
+                - Diagram interpretation is the weak point, so I need to focus on **fluently interpreting graphs and signaling diagrams**
+            - **Short answer**
+                - Just like the answer you had for the difficult cancer question, have **fixed, succinct explanations for all short answer explanations, including the skeleton and examples. **
+                    - Receptors on the surface of target cell would cause: [Define Signal Transduction: MUST INCLUDE RTR.](Biology Unit 3-4/AOS 2/Signaling/Cellular Signals/The stimulus-response model when applied to the cell in terms of signal transduction as a three-step process involving reception, transduction and cellular response  /RTR/Define Signal Transduction: MUST INCLUDE RTR..md)  2
+                    - Hydrophilic hormones are always proteins, need to state proteins 1
+                    - The receptor is on the surface of cells 1
+                    - Cytoplasmic receptors are for steroid hormones which only cause the response of **gene expression**  0.5
+                    - For neural transmission, after the Facilitated diffusion of Na+ ions into post synaptic cell, a **response of initiation of action potential is caused**. To be more specific to the question in this case was muscle, the contraction of muscle cells. 1
+                    - **Seeds don't need light to germinate.**  1
+- 
+- fyufz
+    - 5656
+    - 6767
+    - 67676
+- asdg
+    - fyufyuv![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtrbxy3qqv2L31RTB-lbO3e8zRT8E-QE5ujW95tFYbfFk_GVU&s)
+        - asdg
+- 
+- 
+--------------------- Portal ---------------------
+    -  _**Chemistry Unit 1**_ 
+        - AOS1
+            - O1
+                -  _Elements and the periodic table_ 
